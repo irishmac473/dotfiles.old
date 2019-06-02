@@ -116,6 +116,6 @@ export FZF_DEFAULT_COMMAND='ag --hidden --ignore .git -g "'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Startup commands
-clear && neofetch --line_wrap off --ascii distro
+clear && neofetch 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
