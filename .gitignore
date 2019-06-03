@@ -1,0 +1,15 @@
+emacs.d/auto-save-list/
+emacs.d/elpa/
+emacs.d/eshell/
+emacs.d/ido.last
+emacs.d/projectile-bookmarks.eld
+emacs.d/url/
+emacs.d/bookmarks
+emacs.d/myinit.el
+emacs.d/recentf
+emacs.d/url
+emacs.d/smex-items
+config/nvim/autoload/
+config/nvim/plugged/
+config/nvim/tmp/
+config/nvim/.netrwhist
